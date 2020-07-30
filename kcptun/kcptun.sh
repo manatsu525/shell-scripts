@@ -28,7 +28,7 @@ KCPTUN_RELEASES_URL='https://api.github.com/repos/xtaci/kcptun/releases'
 KCPTUN_LATEST_RELEASE_URL="${KCPTUN_RELEASES_URL}/latest"
 KCPTUN_TAGS_URL='https://github.com/xtaci/kcptun/tags'
 
-BASE_URL='https://github.com/kuoruan/shell-scripts/raw/master/kcptun'
+BASE_URL='https://github.com/manatsu525/shell-scripts/raw/master/kcptun'
 SHELL_VERSION_INFO_URL="${BASE_URL}/version.json"
 
 JQ_DOWNLOAD_URL="https://github.com/stedolan/jq/releases/download/jq-1.5/"
@@ -85,7 +85,7 @@ cat >&1 <<-'EOF'
 # 该脚本支持 Kcptun 服务端的安装、更新、卸载及配置      #
 # 脚本作者: Index <kuoruan@gmail.com>                   #
 # 作者博客: https://blog.kuoruan.com/                   #
-# Github: https://github.com/kuoruan/shell-scripts      #
+# Github: https://github.com/manatsu525/shell-scripts      #
 # QQ交流群: 43391448, 68133628                          #
 #           633945405                                   #
 #########################################################
